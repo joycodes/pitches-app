@@ -4,8 +4,7 @@
 
 ## Description
 
-A web application that helps users to create categorised pitches
-that other users can view ,upvote, downvote and evn comment on.
+#### A web application that helps users to create categorised pitches that other users can view ,upvote, downvote and evn comment on.
 
 ### Installation
 
